@@ -6,3 +6,4 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 # 2- cd Fix-Termux
 # 3- chmod +x Fix-Termux.sh
 # 4- bash Fix-Termux.sh
+# 5-enjoy Life
